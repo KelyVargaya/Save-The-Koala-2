@@ -1,0 +1,326 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+
+body{
+	padding: 0;
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+
+/*navbar y primera sección - header*/
+
+.inicio{
+	background: transparent;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+	
+}
+
+.navbar-default{
+	background-color: black;
+	border: none;
+	padding: 10px; 
+}
+
+.titulo-principal{
+	font-weight: bold;
+	color:#fff;
+	font-family: 'Kavoon', cursive;
+	font-size: 2.9vw;
+}
+.contenido-inicio{
+	padding: 50px 0;
+	font-family: 'Merienda One', cursive;
+}
+
+.parrafo-inicio{
+	color: white;
+	font-weight: bold;
+	text-align: justify;
+	font-size: 1.5vw;
+}
+
+.btn-verde{
+	background-color: #41521F;
+	color: white;
+	font-size: 1.5vw;
+	font-weight: bolder;
+	width: 25%;
+	
+}
+
+.btn-default{
+	font-size: 1.2vw;
+	width: 30%;
+	margin-bottom: 10px;
+}
+
+.btn-default:hover{
+	background-color: #41521F;
+	color: white;
+}
+
+nav  li a{
+	color: white !important;
+	width: 150px; 
+	font-family: 'Merienda One', cursive;
+	text-align: center;
+}
+
+header nav li:hover{
+	background: #41521F;
+	cursor: pointer;
+
+}
+
+.navbar-collapse li:hover{
+	background: #41521F;
+}
+
+.navbar-brand.logo{
+	padding: 1%;
+	color: transparent;
+	
+}
+.navbar-brand.logo:hover{
+	color: transparent;
+}
+
+
+
+/*Sección dos*/
+
+.second-section{
+	padding: 25px 50px 0px 50px;
+	background: url(../img/hojass.gif);
+}
+
+.koala{
+	width: 50%;
+}
+
+.titulo-segunda-seccion{
+	color: #41521F;
+	font-weight: bold;
+	font-size: 2.2vw;
+	text-align: justify;
+	font-family: 'Frijole', cursive;
+}
+
+.columnas a{
+	color: #41521F;
+
+}
+
+.parrafo-second{
+	text-align: justify;
+	font-size: 1.2vw;
+}
+
+h6{
+	font-size: 2.5vw;
+	text-align: center;
+	font-family: 'Monofett', cursive;
+}
+
+.enlace{
+color: #6d9519;
+}
+.enlace:hover{
+color: #41521F;
+}
+ 
+/*Sección tres*/
+
+.third-section{
+	background-color: #A89F68;
+	padding: 60px;
+	
+}
+
+.titulo{
+	color: white;
+	font-size: 1.8vw;
+}
+
+.titulo-seccion-tres{
+	color: #41521F;
+	font-weight: bold;
+	font-size: 2.2vw;
+}
+
+.titulo-seccion-tres.parrafo-seccion-tres{
+	text-align: justify;
+}
+
+.parrafo-seccion-tres{
+	color: white;
+	font-size: 1.3vw;
+	text-align: justify;
+}
+
+/*borde blanco a imagen*/
+.koalita{
+	border: 5px solid white;
+}
+
+/*Sección Cuatro*/
+
+.fourth-section{
+	background: url("../img/ow.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+	height: 660px;
+	
+}
+#titulo-cuatro{
+	padding-right: 30px;
+	padding-top: 40px;
+	font-size: 1.4vw;
+}
+#titulo-seccion-cuatro{
+	font-size: 2.4vw;
+	padding-right: 20px;
+	
+}
+#parrafo-seccion-cuatro{
+	font-size: 1.0vw;
+	padding-right: 20px;
+}
+/*Sección cinco*/
+
+.fifth-section{
+	padding: 60px;
+}
+
+.titulo-quinta-seccion{
+	color: #41521F;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.fa-heart{
+	color: #A89F68;
+	margin-bottom: 30px;
+}
+
+.fa-globe{
+	color: #A89F68;
+	margin-bottom: 30px;
+}
+
+.fa-paw{
+	color: #A89F68;
+	margin-bottom: 30px;
+}
+
+/*Sección seis*/
+
+.sixth-section{
+	padding: 60px;
+	background: #A89F68;
+}
+
+.titulo-sexta-seccion{
+	text-align: center;
+	color: #41521F;
+	font-weight: bold;
+	margin-bottom: 30px;
+	
+}
+
+#precio{
+	color: white;
+}
+
+#numero{
+	color: white;
+	font-size: 5.3vw;
+}
+
+.menu{
+	margin-bottom: 20px;
+}
+.menu a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  font-family: Arial;
+  font-size: 19px;
+  color: #41521F;
+  border-bottom: 1px solid white;
+}
+
+.menu a:hover{
+
+  background-image:url(../img/hover.gif);
+  background-size: cover;
+  font-weight: bold;
+  -webkit-text-fill-color: white; 
+  -webkit-text-stroke: 0px #41521F; 
+}
+
+.well{
+	color: white;
+	padding: 10px;
+	font-family: "Mystery Quest", cursive;
+	background-color: #334215;
+	border: none;
+	font-size: 14px;
+}
+
+
+
+
+/*Sección siete - footer*/
+
+.seventh-section{
+	background: #41521F;
+	padding: 50px 50px 0px 50px;
+}
+
+.titulo-footer{
+	color: #A89F68;
+	font-size: 2.0vw;
+	margin-top: 0px;
+}
+
+.parrafo-footer{
+	color: white;
+	text-align: justify;
+	font-size: 1.6vw;
+}
+
+.mail-contacto{
+	color: #A89F68;
+	font-size: 1.8vw;
+	margin-bottom: 0px;
+}
+
+.link-septima-seccion{
+	text-decoration: none;
+	color: #A89F68;
+	text-align: center;
+	margin-top: 30px;
+	list-style: none;
+	text-align: justify;
+}
+
+.link-septima-seccion:hover{
+	color: white;
+}
+
+.link-septima-seccion li a{
+	color: #A89F68;
+}
+.enlaces{
+	font-size: 1.6vw;
+}
