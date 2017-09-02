@@ -24,6 +24,7 @@ body{
 	background-color: black;
 	border: none;
 	padding: 10px; 
+	font-size: 18px;
 }
 
 .titulo-principal{
@@ -108,7 +109,8 @@ header nav li:hover{
 	font-weight: bold;
 	font-size: 2.2vw;
 	text-align: justify;
-	font-family: 'Frijole', cursive;
+	font-family: 'Kavoon', cursive;
+
 }
 
 .columnas a{
@@ -151,6 +153,7 @@ color: #41521F;
 	color: #41521F;
 	font-weight: bold;
 	font-size: 2.2vw;
+	font-family: 'Kavoon', cursive;
 }
 
 .titulo-seccion-tres.parrafo-seccion-tres{
@@ -182,16 +185,19 @@ color: #41521F;
 #titulo-cuatro{
 	padding-right: 30px;
 	padding-top: 40px;
+	font-family: 'Kavoon', cursive;
 	font-size: 1.4vw;
 }
 #titulo-seccion-cuatro{
 	font-size: 2.4vw;
 	padding-right: 20px;
+	font-family: 'Kavoon', cursive;
 	
 }
 #parrafo-seccion-cuatro{
 	font-size: 1.0vw;
 	padding-right: 20px;
+	font-family: 'Kavoon', cursive;
 }
 /*Sección cinco*/
 
@@ -204,6 +210,7 @@ color: #41521F;
 	font-weight: bold;
 	text-align: center;
 	margin-bottom: 30px;
+	font-family: 'Kavoon', cursive;
 }
 
 .fa-heart{
@@ -233,6 +240,7 @@ color: #41521F;
 	color: #41521F;
 	font-weight: bold;
 	margin-bottom: 30px;
+	font-family: 'Kavoon', cursive;
 	
 }
 
@@ -291,6 +299,7 @@ color: #41521F;
 	color: #A89F68;
 	font-size: 2.0vw;
 	margin-top: 0px;
+	font-family: 'Kavoon', cursive;
 }
 
 .parrafo-footer{
